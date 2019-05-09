@@ -23,7 +23,7 @@ function flood() {
         document.getElementById("container").innerHTML = "<h1>Flooded Successfully</h1><p>Keep the tabs open to ensure that the users stay in the Kahoot game.</p>"
       });
     } else {
-      alert("Bot name must be shorter than 8 characters due to Kahoot limit.")
+      alert("Bot name must be shorter than or equal to 12 characters due to Kahoot limit.")
     }
   } else {
     alert("A required field is blank.")
