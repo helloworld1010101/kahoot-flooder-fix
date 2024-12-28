@@ -1,5 +1,5 @@
 # Kahoot Flooder Download
-Use Original Repo (DO NOT CLICK ONLY ON MANIFEST.JSON, YOU NEED THE OTHER FILES FOR THE EXTENSION TO WORK)
+Use Source Code
 1. Click on Code
 2. Click Download ZIP
 3. Extract the file
