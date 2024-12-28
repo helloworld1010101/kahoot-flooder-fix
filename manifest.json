@@ -1,8 +1,8 @@
 {
-  "name": "Kahoot Flooder",
+  "name": "Updated Kahoot Flooder",
   "version": "1.1",
-  "description": "Flood a Kahoot on your computer using only Chrome!",
-  "author": "Grayson Martin",
+  "description": "Kahoot Flooder Extension",
+  "author": "Zer0Cheats",
   "manifest_version": 2,
   "permissions": [
     "tabs",
